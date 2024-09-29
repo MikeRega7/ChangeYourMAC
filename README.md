@@ -17,7 +17,7 @@
 ## Name Of your card
 
 - If you don't know the name only execute this command.
-- it is always the last interface
+- it is always the last interface.
 
 ```bash
 ❯ ifconfig
